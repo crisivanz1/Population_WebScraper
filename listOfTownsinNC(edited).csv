@@ -1,0 +1,549 @@
+,Town,County
+0,Aberdeen,Moore
+1,Ahoskie,Hertford
+2,Alamance,Alamance
+3,Albemarle,Stanly
+4,Alliance,Pamlico
+5,Andrews,Cherokee
+6,Angier,Wake
+7,Ansonville,Anson
+8,Apex,Wake
+9,Arapahoe,Pamlico
+10,Archdale,Guilford
+11,Archer Lodge,Johnston
+12,Asheboro,Randolph
+13,Asheville,Buncombe
+14,Askewville,Bertie
+15,Atkinson,Pender
+16,Atlantic Beach,Carteret
+17,Aulander,Bertie
+18,Aurora,Beaufort
+19,Autryville,Sampson
+20,Ayden,Pitt
+21,Badin,Stanly
+22,Bailey,Nash
+23,Bakersville,Mitchell
+24,Bald Head Island,Brunswick
+25,Banner Elk,Avery
+26,Bath,Beaufort
+27,Bayboro,Pamlico
+28,Bear Grass,Martin
+29,Beaufort,Carteret
+30,Beech Mountain,
+31,Belhaven,Beaufort
+32,Belmont,Gaston
+33,Belville,Brunswick
+34,Belwood,Cleveland
+35,Benson,Johnston
+36,Bermuda Run,Davie
+37,Bessemer City,Gaston
+38,Bethania,Forsyth
+39,Bethel,Pitt
+40,Beulaville,Duplin
+41,Biltmore Forest,Buncombe
+42,Biscoe,Montgomery
+43,Black Creek,Wilson
+44,Black Mountain,Buncombe
+45,Bladenboro,Bladen
+46,Blowing Rock,
+47,Boardman,Columbus
+48,Bogue,Carteret
+49,Boiling Spring Lakes,Brunswick
+50,Boiling Springs,Cleveland
+51,Bolivia,Brunswick
+52,Bolton,Columbus
+53,Boone,Watauga
+54,Boonville,Yadkin
+55,Bostic,Rutherford
+56,Brevard,Transylvania
+57,Bridgeton,Craven
+58,Broadway,Harnett
+59,Brookford,Catawba
+60,Brunswick,Columbus
+61,Bryson City,Swain
+62,Bunn,Franklin
+63,Burgaw,Pender
+64,Burlington,Alamance
+65,Burnsville,Yancey
+66,Butner,Granville
+67,Cajah's Mountain,Caldwell
+68,Calabash,Brunswick
+69,Calypso,Duplin
+70,Cameron,Moore
+71,Candor,Montgomery
+72,Canton,Haywood
+73,Cape Carteret,Carteret
+74,Carolina Beach,New Hanover
+75,Carolina Shores,Brunswick
+76,Carrboro,Orange
+77,Carthage,Moore
+78,Cary,Wake
+79,Casar,Cleveland
+80,Cashiers,Jackson
+81,Castalia,Nash
+82,Caswell Beach,Brunswick
+83,Catawba,Catawba
+84,Cedar Point,Carteret
+85,Cedar Rock,Caldwell
+86,Centerville,Franklin
+87,Cerro Gordo,Columbus
+88,Chadbourn,Columbus
+89,Chapel Hill,Orange
+90,Charlotte,Mecklenburg
+91,Cherryville,Gaston
+92,Chimney Rock Village,Rutherford
+93,China Grove,Rowan
+94,Chocowinity,Beaufort
+95,Claremont,Catawba
+96,Clarkton,Bladen
+97,Clayton,Johnston
+98,Clemmons,Forsyth
+99,Cleveland,Rowan
+100,Clinton,Sampson
+101,Clyde,Haywood
+102,Coats,Harnett
+103,Cofield,Hertford
+104,Colerain,Bertie
+105,Columbia,Tyrrell
+106,Columbus,Polk
+107,Como,Hertford
+108,Concord,Cabarrus
+109,Conetoe,Edgecombe
+110,Connelly Springs ,Burke
+111,Conover,Catawba
+112,Conway,Northampton
+113,Cooleemee,Davie
+114,Cornelius,Mecklenburg
+115,Cove City,Craven
+116,Cramerton,Gaston
+117,Creedmoor,Granville
+118,Creswell,Washington
+119,Crossnore,Avery
+120,Cullowhee,Jackson
+121,Cramerton,Gaston
+122,Danbury,Stokes
+123,Davidson,Mecklenburg
+124,Denton,Davidson
+125,Dillsboro,Jackson
+126,Dobbins Heights,Richmond
+127,Dobson,Surry
+128,Dortches,Nash
+129,Dover,Craven
+130,Drexel,Burke
+131,Dublin,Bladen
+132,Duck,Dare
+133,Dunn,Harnett
+134,Durham,Durham County 
+135,Earl,Cleveland
+136,East Arcadia,Bladen
+137,East Bend,Yadkin
+138,East Laurinburg,Scotland
+139,East Spencer ,Rowan
+140,Eastover,Cumberland
+141,Eden,Rockingham
+142,Edenton,Chowan
+143,Elizabeth City,Pasquotank
+144,Elizabethtown,Bladen
+145,Elk Park,Avery
+146,Emerald Isle,Carteret
+147,Enfield,Halifax
+148,Erwin,Harnett
+149,Eureka,Wayne
+150,Everetts,Martin
+151,Fair Bluff,Columbus
+152,Fairmont,Robeson
+153,Fairview,Union
+154,Faison,Duplin
+155,Faith,Rowan
+156,Falcon,Cumberland
+157,Falkland,Pitt
+158,Fallston,Cleveland
+159,Farmville,Pitt
+160,Fayetteville,Cumberland
+161,Flat Rock,Henderson
+162,Fletcher,Henderson
+163,Forest City,Rutherford
+164,Forest Hills,Jackson
+165,Fountain,Pitt
+166,Four Oaks,Johnston
+167,Foxfire Village,Moore
+168,Franklin,Macon
+169,Franklinton,Franklin
+170,Franklinville,Randolph
+171,Fremont,Wayne
+172,Fuquay-Varina,Wake
+173,Gamewell,Caldwell
+174,Garland,Sampson
+175,Garner,Wake
+176,Garysburg,Northampton
+177,Gaston,Northampton
+178,Gastonia,Gaston
+179,Gatesville,Gates
+180,Gibson,Scotland
+181,Gibsonville,Guilford
+182,Glen Alpine,Burke
+183,Glenville,Jackson
+184,Godwin,Cumberland
+185,Goldsboro,Wayne
+186,Goldston,Chatham
+187,Graham,Alamance
+188,Grandfather Village,Avery
+189,Granite Falls,Caldwell
+190,Granite Quarry,Rowan
+191,Grantsboro,Pamlico
+192,Green Level,Alamance
+193,Greenevers,Duplin
+194,Greensboro,Guilford
+195,Greenville,Pitt
+196,Grifton,Pitt
+197,Grimesland,Pitt
+198,Grover,Cleveland
+199,Halifax,Halifax
+200,Hamilton,Martin
+201,Hamlet,Richmond
+202,Harmony,Iredell
+203,Harrells,Sampson
+204,Harrellsville,Hertford
+205,Harrisburg,Cabarrus
+206,Hassell,Martin
+207,Havelock,Craven
+208,Haw River,Alamance
+209,Hayesville,Clay
+210,Hemby Bridge,Union
+211,Henderson,Vance
+212,Hendersonville,Henderson
+213,Hertford,Perquimans
+214,Hickory,Catawba
+215,High Point,Guilford
+216,High Shoals,Gaston
+217,Highlands,Macon
+218,Hildebran,Burke
+219,Hillsborough,Orange
+220,Hobgood,Halifax
+221,Hoffman,Richmond
+222,Holden Beach,Brunswick
+223,Holly Ridge,Onslow
+224,Holly Springs,Wake
+225,Hookerton,Greene
+226,Hope Mills,Cumberland
+227,Hot Springs ,Madison
+228,Hudson,Caldwell
+229,Huntersville,Mecklenburg
+230,Indian Beach,Carteret
+231,Indian Trail,Union
+232,Jacksonville,Northampton
+233,Jacksonville,Onslow
+234,Jamestown,Guilford
+235,Jamesville,Martin
+236,Jefferson,Ashe
+237,Kelford,Bertie
+238,Kenansville,Duplin
+239,Kenly ,Johnston
+240,Kernersville,Forsyth
+241,Kill Devil Hills,Dare
+242,King,Stokes
+243,Kings Mountain,Cleveland
+244,Kingstown,Cleveland
+245,Kinston,Lenoir
+246,Kittrell,Vance
+247,Kitty Hawk,Dare
+248,Knightdale,Wake
+249,Kure Beach,New Hanover
+250,La Grange,Lenoir
+251,Lake Lure,Rutherford
+252,Lake Park ,Union
+253,Lake Santeetlah,Graham
+254,Lake Waccamaw,Columbus
+255,Landis,Rowan
+256,Lansing,Ashe
+257,Lasker,Northampton
+258,Lattimore,Cleveland
+259,Laurel Park,Henderson
+260,Laurinburg,Scotland
+261,Lawndale,Cleveland
+262,Leggett,Edgecombe
+263,Leland,Brunswick
+264,Lenoir,Caldwell
+265,Lewiston Woodville,Bertie
+266,Lewisville,Forsyth
+267,Lexington,Davidson
+268,Liberty,Randolph
+269,Lilesville,Anson
+270,Lillington ,Harnett
+271,Lincolnton,Lincoln
+272,Linden,Cumberland
+273,Littleton,Halifax
+274,Locust,Stanly
+275,Long View,Catawba
+276,Louisburg,Franklin
+277,Love Valley,Iredell
+278,Lowell,Gaston
+279,Lucama,Wilson
+280,Lumber Bridge,Robeson
+281,Lumberton,Robeson
+282,Macclesfield,Edgecombe
+283,Macon,Warren
+284,Madison,Rockingham
+285,Maggie Valley,Haywood
+286,Magnolia,Duplin
+287,Maiden,Lincoln
+288,Manteo,Dare
+289,Marietta,Robeson
+290,Marion,McDowell
+291,Mars Hill,Madison
+292,Marshall,Madison
+293,Marshville,Union
+294,Marvin,Union
+295,Matthews,Mecklenburg
+296,Maxton,Robeson
+297,Mayodan,Rockingham
+298,Maysville,Jones
+299,McAdenville,Gaston
+300,McDonald,Robeson
+301,McFarlan,Anson
+302,Mebane,Alamance
+303,Mesic,Pamlico
+304,Micro,Johnston
+305,Middleburg,Vance
+306,Middlesex,Nash
+307,Midland,Cabarrus
+308,Midway,Davidson
+309,Mills River ,Henderson
+310,Milton,Caswell
+311,Mineral Springs,Union
+312,Minnesott Beach,Pamlico
+313,Mint Hill,Mecklenburg
+314,Misenheimer,Stanly
+315,Mocksville,Davie
+316,Momeyer,Nash
+317,Monroe,Union
+318,Montreat,Buncombe
+319,Mooresboro,Cleveland
+320,Mooresville,Iredell
+321,Morehead City,Carteret
+322,Morganton,Burke
+323,Morrisville,Wake
+324,Morven,Anson
+325,Mount Airy,Surry
+326,Mount Gilead,Montgomery
+327,Mount Holly,Gaston
+328,Mount Olive,Wayne
+329,Mount Pleasant ,Cabarrus
+330,Murfreesboro,Hertford
+331,Murphy,Cherokee
+332,Nags Head,Dare
+333,Nashville,Nash
+334,Navassa,Brunswick
+335,New Bern,Craven
+336,New London,Stanly
+337,Newland,Avery
+338,Newport,Carteret
+339,Newton,Catawba
+340,Newton Grove,Sampson
+341,Norlina,Warren
+342,Norman,Richmond
+343,North Topsail Beach,Onslow
+344,North Wilkesboro,Wilkes
+345,Northwest,Brunswick
+346,Norwood,Stanly
+347,Oak city,Martin
+348,Oak Island,Brunswick
+349,Oak Ridge,Guilford
+350,Oakboro,Stanly
+351,Ocean Isle Beach,Brunswick
+352,Old Fort,McDowell
+353,Oriental,Pamlico
+354,Orrum,Robeson
+355,Ossipee,Alamance
+356,Oxford,Granville
+357,Pantego,Beaufort
+358,Parkton,Robeson
+359,Parmele,Martin
+360,Patterson Springs,Cleveland
+361,Peachland,Anson
+362,Peletier,Carteret
+363,Pembroke,Robeson
+364,Pikeville,Wayne
+365,Pilot Mountain,Surry
+366,Pine Knoll Shores,Carteret
+367,Pine Level,Johnston
+368,Pinebluff,Moore
+369,Pinehurst,Moore
+370,Pinetops,Edgecombe
+371,Pineville,Mecklenburg
+372,Pink Hill,Lenoir
+373,Pittsboro,Chatham
+374,Pleasant Garden ,Guilford
+375,Plymouth,Washington
+376,Polkton,Anson
+377,Polkville,Cleveland
+378,Pollocksville,Jones
+379,Powellsville,Bertie
+380,Princeton,Johnston
+381,Princeville,Edgecombe
+382,Proctorville,Robeson
+383,Raeford,Hoke
+384,Raleigh,Wake
+385,Ramseur,Randolph
+386,Randleman,Randolph
+387,Ranlo,Gaston
+388,Raynham,Robeson
+389,Red Cross,Stanly
+390,Red Oak,Nash
+391,Red Springs,Robeson
+392,Reidsville,Rockingham
+393,Rennert,Robeson
+394,Rhodhiss,Burke
+395,Rich Square,Northampton
+396,Richfield,Stanly
+397,Richlands,Onslow
+398,River Bend,Craven
+399,Roanoke Rapids,Halifax
+400,Robbins,Moore
+401,Robbinsville,Graham
+402,Robersonville,Martin
+403,Rockingham,Richmond
+404,Rockwell,Rowan
+405,Rocky Mount,Nash
+406,Rolesville,Wake
+407,Ronda,Wilkes
+408,Roper,Washington
+409,Rose Hill,Duplin
+410,Roseboro,Sampson
+411,Rosman,Transylvania
+412,Rowland,Robeson
+413,Roxboro,Person
+414,Roxobel,Bertie
+415,Rural Hall,Forsyth
+416,Ruth,Rutherford
+417,Rutherford College,Burke
+418,Rutherfordton,Rutherford
+419,Saint Helena,Pender
+420,Saint James,Brunswick
+421,Saint Pauls,Robeson
+422,Salemburg,Sampson
+423,Salisbury,Rowan
+424,Saluda,Polk
+425,Sandy Creek,Brunswick
+426,Sandyfield,Columbus
+427,Sanford,Lee
+428,Saratoga,Wilson
+429,Sawmills,Caldwell
+430,Scotland Neck,Halifax
+431,Seaboard,Northampton
+432,Seagrove,Randolph
+433,Sedalia,Guilford
+434,Selma,Johnston
+435,Seven Devils,Watauga
+436,Seven Springs,Wayne
+437,Severn,Northampton
+438,Shallotte,Brunswick
+439,Sharpsburg,Nash
+440,Shelby,Cleveland
+441,Siler City,Chatham
+442,Simpson,Pitt
+443,Sims,Wilson
+444,Smithfield,Johnston
+445,Snow Hill ,Greene
+446,Southern Pines,Moore
+447,Southern Shores,Dare
+448,Southport,Brunswick
+449,Sparta,Alleghany
+450,Speed,Edgecombe
+451,Spencer,Rowan
+452,Spencer Mountain,Gaston
+453,Spindale,Rutherford
+454,Spring Hope,Nash
+455,Spring Lake,Cumberland
+456,Spruce Pine,Mitchell
+457,Staley,Randolph
+458,Stallings,Union
+459,Stanfield,Cabarrus
+460,Stanley,Gaston
+461,Stantonsburg,Wilson
+462,Star,Montgomery
+463,Statesville,Iredell
+464,Stedman,Cumberland
+465,Stem,Granville
+466,Stokesdale,Guilford
+467,Stoneville,Rockingham
+468,Stonewall,Pamlico
+469,Stovall,Granville
+470,Sugar Mountain,Avery
+471,Summerfield,Guilford
+472,Sunset Beach,Brunswick
+473,Surf City,Onslow
+474,Swansboro,Onslow
+475,Swepsonville,Alamance
+476,Sylva,Jackson
+477,Tabor City,Columbus
+478,Tar Heel,Bladen
+479,Tarboro,Edgecombe
+480,Taylorsville,Alexander
+481,Taylortown,Moore
+482,Teachey,Duplin
+483,Thomasville,Davidson
+484,Tobaccoville,Forsyth
+485,Topsail Beach,Pender
+486,Trent Woods,Craven
+487,Trenton,Jones
+488,Trinity,Randolph
+489,Troutman,Iredell
+490,Troy,Montgomery
+491,Tryon,Polk
+492,Turkey,Sampson
+493,Unionville,Union
+494,Valdese,Burke
+495,Vanceboro,Craven
+496,Vandemere,Pamlico
+497,Varnamtown,Brunswick
+498,Vass,Moore
+499,Waco,Cleveland
+500,Wade,Cumberland
+501,Wadesboro,Anson
+502,Wagram,Scotland
+503,Wake Forest,Wake
+504,Walkertown,Forsyth
+505,Wallace,Duplin
+506,Wallburg,Davidson
+507,Walnut Cove,Stokes
+508,Walnut Creek,Wayne
+509,Walstonburg,Greene
+510,Warrenton,Warren
+511,Warsaw,Duplin
+512,Washington,Beaufort
+513,Washington Park,Beaufort
+514,Watha,Pender
+515,Waxhaw,Union
+516,Waynesville,Haywood
+517,Weaverville,Buncombe
+518,Webster,Jackson
+519,Weddington,Mecklenburg
+520,Weldon,Halifax
+521,Wendell,Wake
+522,Wentworth,Rockingham
+523,Wesley Chapel,Union
+524,West Jefferson,Ashe 
+525,Whispering Pines,Moore
+526,Whitakers,Edgecombe
+527,White Lake,Bladen
+528,Whiteville,Columbus
+529,Whitsett,Guilford
+530,Wilkesboro,Wilkes
+531,Williamston,Martin
+532,Wilmington,New Hanover
+533,Wilson,Wilson
+534,Wilson's Mills,Johnston
+535,Windsor,Bertie
+536,Winfall,Perquimans
+537,Wingate,Union
+538,Winston-Salem,Forsyth
+539,Winterville,Pitt
+540,Winton,Hertford
+541,Woodfin,Buncombe
+542,Woodland,Northampton
+543,Wrightsville Beach,New Hanover
+544,Yadkinville,Yadkin
+545,Yanceyville,Caswell
+546,Youngsville,Franklin
+547,Zebulon,Wake
